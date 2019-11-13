@@ -1,0 +1,11 @@
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\bin\Debug\netcoreapp2.2\Cognizant_automation.deps.json
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\bin\Debug\netcoreapp2.2\Cognizant_automation.runtimeconfig.json
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\bin\Debug\netcoreapp2.2\Cognizant_automation.runtimeconfig.dev.json
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\bin\Debug\netcoreapp2.2\Cognizant_automation.dll
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\obj\Debug\netcoreapp2.2\Cognizant_automation.csprojAssemblyReference.cache
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\obj\Debug\netcoreapp2.2\Cognizant_automation.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\obj\Debug\netcoreapp2.2\Cognizant_automation.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\obj\Debug\netcoreapp2.2\Cognizant_automation.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\bin\Debug\netcoreapp2.2\Cognizant_automation.pdb
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\obj\Debug\netcoreapp2.2\Cognizant_automation.dll
+C:\Users\Jason\Desktop\Workspace\Cognizant_automation\obj\Debug\netcoreapp2.2\Cognizant_automation.pdb
